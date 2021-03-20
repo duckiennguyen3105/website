@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/Login.jsp=UTF-8
+encoding//WebContent/homepage.jsp=UTF-8
+encoding//src/AdminServlet/ManageCompany.java=UTF-8
+encoding//src/ServletAction/CartServlet.java=UTF-8
+encoding//src/ServletAction/CheckUserServlet.java=UTF-8
+encoding//src/ServletAction/LoginServlet.java=UTF-8
+encoding//src/ServletAction/PayServlet.java=UTF-8
+encoding//src/connection/DAO/CompanyDAO.java=UTF-8
+encoding//src/connection/DAO/ProductDao.java=UTF-8
+encoding//src/connection/model/Cart.java=UTF-8
